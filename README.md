@@ -7,9 +7,10 @@ Cn-xmr-stak 是一款门罗币挖矿工具。 支持CPU，AMD和NVIDIA gpus
 * 支持Windows窗口程序
 * HTML统计信息
 ## 常见问题
-* 需要 VC2015 x64运行库 [https://www.microsoft.com/en-us/download/details.aspx?id=48145](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+* 需要 VC2015 x64运行库 [下载](https://go.microsoft.com/fwlink/?LinkId=746572)
 * 最新显卡驱动
 * 系统运行环境建议WIN7以上系统，WIN10最佳
+* 更多问题请浏览此[页面](https://github.com/fireice-uk/xmr-stak/blob/master/doc/FAQ.md#selockmemoryprivilege-failed)
 
 ## 开发者捐赠
 
