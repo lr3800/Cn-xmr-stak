@@ -13,9 +13,10 @@ Cn-xmr-stak 是一款门罗币挖矿工具。 支持CPU，AMD和NVIDIA gpus
 * 更多问题请浏览此[页面](https://github.com/fireice-uk/xmr-stak/blob/master/doc/FAQ.md#selockmemoryprivilege-failed)
 
 ## 开发者捐赠
-
-门罗币钱包：
+* 这是免费软件,无后门无抽水；如果可以请捐赠给我
+* 门罗币钱包：
 `4BDwV21TvXFeGV97x9FetzaBgTQGL1txhePStMiyJnMdA38VLyVwcmbWMvVZdLgxyRDM16Hn9tzCjBwcpyjgQs9JAsjNPkz`
+ 
 
 ## 下载
 [二进制文件](https://github.com/lr3800/Cn-xmr-stak/releases)
