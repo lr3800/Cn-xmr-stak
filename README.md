@@ -19,7 +19,7 @@ Cn-xmr-stak 是一款门罗币挖矿工具。 支持CPU，AMD和NVIDIA gpus
  
 
 ## 下载
-[二进制文件](https://github.com/lr3800/Cn-xmr-stak/releases)
+[二进制文件](https://github.com/lr3800/Cn-xmr-stak/releases) 或 [百度网盘](https://pan.baidu.com/s/1pMNND2N)
 
 ## 意见
 把问题发在这里[https://github.com/lr3800/Cn-xmr-stak/issues/new](https://github.com/lr3800/Cn-xmr-stak/issues/new)
